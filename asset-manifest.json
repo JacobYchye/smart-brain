@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/smart-brain/static/css/main.6e19a745.chunk.css",
-    "main.js": "/smart-brain/static/js/main.3d019e3b.chunk.js",
-    "main.js.map": "/smart-brain/static/js/main.3d019e3b.chunk.js.map",
-    "runtime~main.js": "/smart-brain/static/js/runtime~main.e63bf16e.js",
-    "runtime~main.js.map": "/smart-brain/static/js/runtime~main.e63bf16e.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/smart-brain/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.343b017c.chunk.js": "/smart-brain/static/js/2.343b017c.chunk.js",
-    "static/js/2.343b017c.chunk.js.map": "/smart-brain/static/js/2.343b017c.chunk.js.map",
-    "index.html": "/smart-brain/index.html",
-    "precache-manifest.8e9e73d24b22cbf5c5a3aab52dc6408e.js": "/smart-brain/precache-manifest.8e9e73d24b22cbf5c5a3aab52dc6408e.js",
-    "service-worker.js": "/smart-brain/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/smart-brain/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.6e19a745.chunk.css.map": "/smart-brain/static/css/main.6e19a745.chunk.css.map"
+    "main.css": "/smart-brain/./static/css/main.6e19a745.chunk.css",
+    "main.js": "/smart-brain/./static/js/main.75caaad1.chunk.js",
+    "main.js.map": "/smart-brain/./static/js/main.75caaad1.chunk.js.map",
+    "runtime~main.js": "/smart-brain/./static/js/runtime~main.283f4974.js",
+    "runtime~main.js.map": "/smart-brain/./static/js/runtime~main.283f4974.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/smart-brain/./static/css/2.31dafeb2.chunk.css",
+    "static/js/2.343b017c.chunk.js": "/smart-brain/./static/js/2.343b017c.chunk.js",
+    "static/js/2.343b017c.chunk.js.map": "/smart-brain/./static/js/2.343b017c.chunk.js.map",
+    "index.html": "/smart-brain/./index.html",
+    "precache-manifest.d0f91fe88a57c045dfeca5c88da7ba9b.js": "/smart-brain/./precache-manifest.d0f91fe88a57c045dfeca5c88da7ba9b.js",
+    "service-worker.js": "/smart-brain/./service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/smart-brain/./static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.6e19a745.chunk.css.map": "/smart-brain/./static/css/main.6e19a745.chunk.css.map"
   }
 }
